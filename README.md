@@ -1,1 +1,1 @@
-# rust-search-algorithms
+# This repository was created for learn purposes and it is intended to hold some common search algorithms such as breadth first, dept first algorightms.
